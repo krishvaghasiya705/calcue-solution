@@ -1,0 +1,87 @@
+.conteiner {
+    width: 100%;
+    max-width: 1232px;
+    margin: 0 auto;
+}
+
+.header-main {
+    border-radius: 50px;
+}
+
+.header-inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 30px 0 70px 0;
+}
+
+.highlight1-main {
+    background-color: rgb(249, 249, 254);
+    border-radius: 60px;
+}
+
+.header-inner-menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.header-inner-menu a {
+    text-decoration: none;
+    color: #3d3d3d;
+}
+
+.menu-button {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.menu-login-button button.btn-login {
+    border: 1px solid #0d6aa0;
+    color: #0d6aa0;
+    padding: 9.74px 23.85px 12.21px 24px;
+    width: 96.85px;
+    align-items: center;
+    border-radius: 30.9879px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 18px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 22px;
+}
+
+.menu-login-button button.btn-get {
+    box-shadow: 3px 17px 33px rgba(14, 107, 161, .14);
+    padding: 9.74px 22.62px 12.21px 29px;
+    width: 153.62px;
+    align-items: center;
+    background: #0d6aa0;
+    border: none;
+    color: #fff;
+    border-radius: 30.9879px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 18px;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 22px;
+}
+
+.menu-login-button {
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.header-inner-menu {
+    width: 100%;
+    max-width: 550px;
+    align-items: center;
+}
